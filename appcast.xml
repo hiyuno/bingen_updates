@@ -6,6 +6,19 @@
         <description>Actualizaciones de BinGen</description>
         <language>en</language>
         <item>
+            <title>Versión 1.3.23</title>
+            <pubDate>Sat, 10 Oct 2026 00:36:19 +0000</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>1.3.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hiyuno/bingen_updates/releases/download/v1.3.23/BinGen-1.3.23.dmg"
+                       sparkle:version="90"
+                       sparkle:shortVersionString="1.3.23"
+                       sparkle:edSignature="C1ZqYNvQASETdMIZ906LHraOcekvduVwFVYCYP2F5ppwMhWUX56fJiumTTXR78X8x8ffKFana1j2OK+hjOqxBQ=="
+                       length="8120195"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Versión 1.3.22</title>
             <pubDate>Sat, 10 Oct 2026 00:30:03 +0000</pubDate>
             <sparkle:version>88</sparkle:version>
